@@ -1,2 +1,2 @@
 # BrAnimes
-Projeto teste para a BrAnimes
+Projeto de página web, teste da BrAnimes. Prof Alcides
