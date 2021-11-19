@@ -1,2 +1,2 @@
 # BrAnimes
-Projeto de página web, teste da BrAnimes. Prof Alcides
+university first website project
